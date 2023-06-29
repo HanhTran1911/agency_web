@@ -1,0 +1,449 @@
+body {
+    max-width: 600px;
+    margin: 50px auto;
+}
+
+.container {}
+
+.footer1 {
+    background: url("../img/ft1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 600px;
+    height: 460px;
+    padding-bottom: 100px;
+}
+
+.template {
+    font-weight: bold;
+    font-size: 37px;
+    color: white;
+    margin-top: 115px;
+    margin-left: 30px;
+
+}
+
+.ft1_lr {
+    font-size: 18px;
+    color: white;
+    padding-left: 30px;
+}
+
+.btn_readmore {
+    font-size: 14px;
+    color: #bb58f0;
+    border-radius: 50px;
+    padding: 11px 31px;
+    margin-left: 30px;
+    border: solid white;
+    font-weight: 600;
+    font-family: inherit;
+    background-color: white;
+
+}
+
+.footer2 h2 {
+
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.footer2 {
+    text-align: center;
+    margin-top: 70px;
+    padding-bottom: 15px;
+}
+
+.ft2_lr {
+    color: rgb(100, 96, 96);
+    margin: 0 150px;
+    font-size: 16px;
+}
+
+.footer3 {
+    margin-top: 5px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.ft3_lr {
+    margin-top: 10px;
+    color: rgb(100, 96, 96);
+    font-size: 17px;
+}
+
+.outVision {
+    margin-top: 40px;
+    padding-bottom: 25px;
+    margin-bottom: 20px;
+}
+
+.outVS_name {
+    font-weight: bold;
+    color: #ad4fe0;
+    margin-top: 40px;
+}
+
+.outVS_content {
+    font-weight: bold;
+
+}
+
+.check {
+    font-size: 16px;
+    font-weight: normal;
+    margin-bottom: 7px;
+}
+
+.mxh {
+    background: url('../img/cta@bg-22.png');
+    height: 153px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 49px;
+    text-align: center;
+}
+
+
+.outService {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.outService h2 {
+    font-weight: 900;
+
+    margin-bottom: 20px;
+}
+
+.function {
+    margin-top: 30px;
+    padding: 0 20px;
+}
+
+.design {
+    background-color: rgb(248, 248, 248);
+    padding: 30px 30px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.Business {
+    background-color: rgb(248, 248, 248);
+    padding: 30px 30px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.Technology {
+    background-color: rgb(248, 248, 248);
+    padding: 30px 30px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.Development {
+    background-color: rgb(248, 248, 248);
+    padding: 30px 30px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.emailDesign {
+    margin-top: 40px;
+    padding: 0 20px;
+}
+
+.view {
+    background: url('../img/cta@bg-22.png');
+    height: 205px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 45px;
+    margin-top: 100px;
+
+}
+
+.item_view {
+    text-align: center;
+}
+
+.item_view h1 {
+    font-family: 'Lora', serif;
+    color: white;
+
+}
+
+.item_view p {
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif, 'Lora', serif;
+    color: white;
+    font-weight: 600;
+}
+
+.product {
+    margin-top: 30px;
+    padding: 0 40px;
+}
+
+.den {
+    margin-left: 11px;
+}
+
+.work {
+    margin-top: 100px;
+    margin-bottom: 50px;
+    padding: 0 23px;
+}
+
+.work_item {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 10px;
+    padding-top: 10px;
+}
+
+.name {
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+.work_icon {}
+
+.work-lr {
+    font-size: 18px;
+    color: rgb(100, 96, 96);
+}
+
+.work-name {
+    color: #a031dd;
+    font-weight: 600;
+    font-size: 16px;
+    padding-top: 20px;
+}
+
+.work-left h3 {
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.work-loadmore {
+    font-size: 14px;
+    color: white;
+    border-radius: 50px;
+    padding: 11px 31px;
+    border: solid #a031dd;
+    font-weight: 600;
+    background-color: #a031dd;
+    margin-bottom: 30px;
+    font-family: inherit;
+}
+
+.work-right {
+    padding-left: 40px;
+}
+
+.contact {
+    background: url("../img/bg_contact.png");
+    margin: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+   height: 290px;
+   padding: 0 20px;
+
+}
+
+.ct_name {
+    font-weight: bold;
+    font-size: 29px;
+    color: white;
+    margin-top: 45px;
+   
+}
+
+.ct_lr {
+    font-size: 16px;
+    color: white;
+    padding-right: 80px;
+   padding: 0 0;
+   margin-top: 0px ;
+}
+
+.ct_readmore {
+    font-size: 14px;
+    color: #bb58f0;
+    border-radius: 50px;
+    padding: 11px 31px;
+    border: solid white;
+    font-weight: 600;
+    font-family: inherit;
+    background-color: white;
+   
+}
+
+.outTeam {
+    text-align: center;
+    margin-bottom: 100px;
+    padding-top: 30px;
+}
+
+.outTeam h2 {
+    font-weight: bolder;
+    font-size: 36px;
+    
+}
+
+.item_people {
+    
+}
+.people{
+    padding: 0 20px;
+}
+.people_name {
+    margin-top: 7px;
+    font-weight: bold;
+    font-size: 17px; 
+    text-decoration: none;   
+    color: #000;
+}
+
+.position_work {
+    color: rgb(100, 96, 96);
+    font-size: 16px;
+}
+
+.icon_people {
+    margin-right: 8px;
+    margin-top: -13px;
+}
+
+.comment {
+    margin-top: 30px;
+    padding: 0 20px;
+}
+
+.assess {
+
+}
+
+.item_comment {
+    border-radius: 10px;
+    background-color: rgb(248, 248, 248);
+    padding: 24px 24px;
+}
+.name_user{
+    font-weight: bold;
+    font-size: 20px;
+}
+.contactUs {
+    background: url("../img/CTA-Left-Info-BG-Img.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 290px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 80px;
+}
+
+.outNew {
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 60px;
+}
+
+.outNew h2 {
+    font-weight: bolder;
+    font-size: 36px;
+    
+}
+
+.post {
+    margin-bottom: 30px;
+    padding: 0 20px;
+}
+
+.title_post {
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 23px;
+font-family: inherit;
+}
+
+
+.description {
+    margin: 10px 0;
+    color: rgb(100, 96, 96);
+    font-size: 17px;
+}
+
+.founder {
+   
+    padding: 0 20px 60px 20px;
+}
+
+.header {
+    background: black;
+    padding: 50px 0;
+}
+
+.logo_header p {
+    margin-top: 20px;
+    font-size: 17px;
+    color: white;
+
+}
+
+.logo_header img {
+    margin-right: 5px;
+}
+
+.contactInfo h3 {
+    color: white;
+    margin-top: 20px;
+
+
+}
+
+.contactInfo p {
+    font-size: 20px;
+    color: white;
+}
+.item_ctInfo {
+    font-size: 16px;
+    color: white;
+    text-decoration: none;
+}
+
+
+.moreLink h3 {
+    color: white;
+    margin-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.moreLink p {
+    font-size: 20px;
+    color: white;
+}
+
+.hr_ft {
+    background: white;
+    height: 3px;
+    margin: 40px 0;
+}
+
+.end_ft .col-md-8 .col-md-4 {
+    font-size: 20px;
+    color: white;
+}
+
+
